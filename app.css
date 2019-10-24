@@ -5,7 +5,8 @@
 
 *{
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'Jomolhari', serif;
+  font-weight: 700;
   margin: 0;
   padding: 0;
   color: #333;
@@ -53,6 +54,7 @@ h3{
   align-items: center;
   max-width: 80rem;
   margin: 0 auto;
+  padding:  2rem;
 }
 
 .container > * {
